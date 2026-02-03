@@ -15,7 +15,7 @@ The frontend communicates with the backend using **traditional Axios** for API r
 
 => User Dashboard
 Users can:
-- Register & Login
+- Register & Login (UserLoginId-cc@gmail.com /password-123456)
 - View all available books
 - Search books by title / author
 - Request to borrow books
@@ -27,7 +27,7 @@ Users can:
 
 => Admin Dashboard
 Admins can:
-- Login securely
+- Login securely (adminLoginId-charan@gmail.com / password-123456)
 - View all users
 - View all books
 - Issue books to users
@@ -35,4 +35,3 @@ Admins can:
 - Send notifications for due dates
 - Track issued & returned books
 
--------------------------------------------
